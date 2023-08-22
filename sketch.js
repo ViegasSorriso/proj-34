@@ -9,7 +9,7 @@ const Composite = Matter.Composite;
 
 let engine;
 let world;
-
+var escada;
 var rope, rope2, fruit, ground, bunny;
 var fruit_con, fruit_con_2, fruit_con_3;
 var bgImg, fruitImg, bunnyImg;
